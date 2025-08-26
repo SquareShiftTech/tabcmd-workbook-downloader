@@ -8,7 +8,7 @@
 ### CONFIGURATION ###
 TABLEAU_SERVER="https://prod-apsoutheast-b.online.tableau.com"
 SITE_ID="<site_id>"
-USERNAME="krithikaramesh56@gmail.com"
+USERNAME="<user_name>"
 PASSWORD_FILE="$HOME/.tabcmd_pw.txt"
 
 ### STEP 0: Login (one-time password setup if not already done) ###
